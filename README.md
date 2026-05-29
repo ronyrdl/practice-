@@ -99,6 +99,10 @@ VITE_CONTENT_TYPE=application/json
 VITE_TIME_OUT=5000
 ```
 
+## Diagrama de flujo 
+<img width="1024" height="1536" alt="diagrama" src="https://github.com/user-attachments/assets/708cab47-d64e-4b15-871b-1e9802d0fe6a" />
+
+
 ## Ejecutar el proyecto
 
 Para ejecutar el proyecto, primero se debe instalar las dependencias y luego realizar el run del proyecto
